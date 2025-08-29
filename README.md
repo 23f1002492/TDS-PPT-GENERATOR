@@ -35,12 +35,12 @@
 1. **Clone the repository**
    ```bash
    git clone https://github.com/23f1002492/TDS-PPT-GENERATOR.git
-   cd ai-powerpoint-generator
+   cd TDS-PPT-GENERATOR
    ```
 
 2. **Install dependencies**
    ```bash
-   pip install flask flask-cors python-pptx requests python-dotenv
+   pip install -r requirements.txt
    ```
 
 3. **Run the application**
