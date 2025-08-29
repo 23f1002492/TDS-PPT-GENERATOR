@@ -1,9 +1,10 @@
 # AI PowerPoint Generator: Your Text, Your Style
 
-> Transform bulk text, markdown, or prose into professionally formatted PowerPoint presentations that match your template's exact look and feel.
-> ⚠️ WARNING: This is a raw version and may not always work.
+## ⚠️ WARNING: This is a raw version and may not always work.
 
-**[Render Deployment Link]()** 
+> Transform bulk text, markdown, or prose into professionally formatted PowerPoint presentations that match your template's exact look and feel.
+
+**[Render Deployment Link](https://ppt-generator-i3ma.onrender.com/)** 
 
 
 ## ✨ Features
@@ -162,6 +163,5 @@ Health check endpoint
 ---
 
 ## 📄 License
-
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 ---
